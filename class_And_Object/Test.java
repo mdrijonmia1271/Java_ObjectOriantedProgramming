@@ -1,4 +1,4 @@
-package classAndObject;
+package class_And_Object;
 
 public class Test {
     
