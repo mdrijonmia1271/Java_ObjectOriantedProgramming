@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FactorialNumberTest",
+            "request": "launch",
+            "mainClass": "Factorial_And_Recursion.FactorialNumberTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialNumberTest",
+            "request": "launch",
+            "mainClass": "Factorial_Number.FactorialNumberTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableLengthTest",
+            "request": "launch",
+            "mainClass": "Variable_Length_Arguments.VariableLengthTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallByValueTest",
+            "request": "launch",
+            "mainClass": "Call_By_Value.CallByValueTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallByReferenceTest",
+            "request": "launch",
+            "mainClass": "Call_By_Reference.CallByReferenceTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MathClass",
+            "request": "launch",
+            "mainClass": "Math_Class.MathClass",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverlodTest",
+            "request": "launch",
+            "mainClass": "Method_Overloding.MethodOverlodTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxVolumeTest",
+            "request": "launch",
+            "mainClass": "Problem_Solving.BoxVolumeTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticBlockTest",
+            "request": "launch",
+            "mainClass": "Static_Method.StaticBlockTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticMethodTest",
+            "request": "launch",
+            "mainClass": "Static_Method.StaticMethodTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticVariavleTest",
+            "request": "launch",
+            "mainClass": "Static_Variable.StaticVariavleTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest",
+            "request": "launch",
+            "mainClass": "Static_Variable.StudentTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "class_And_Object.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch overlodingConstructorTest",
+            "request": "launch",
+            "mainClass": "overlodingConstructor.overlodingConstructorTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(1)",
+            "request": "launch",
+            "mainClass": "returningValue.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(2)",
+            "request": "launch",
+            "mainClass": "static_Keyword.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        }
+    ]
+}
