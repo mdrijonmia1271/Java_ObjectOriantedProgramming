@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrivateMemberTest",
+            "request": "launch",
+            "mainClass": "Inheritance_Private_Member.PrivateMemberTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Inheritance.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncapPersonTest",
+            "request": "launch",
+            "mainClass": "Encapsulation.EncapPersonTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch FactorialNumberTest",
             "request": "launch",
             "mainClass": "Factorial_And_Recursion.FactorialNumberTest",
