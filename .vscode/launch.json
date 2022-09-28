@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Super_Keyword3.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperClassTest",
+            "request": "launch",
+            "mainClass": "Super_Keyword2.SuperClassTest",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperKey1SuperKey2Test",
+            "request": "launch",
+            "mainClass": "Super_Keyword.SuperKey1SuperKey2Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Method_Overriding.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Instanceof_Operator.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teacher",
+            "request": "launch",
+            "mainClass": "Instanceof_Operator.Teacher",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch PrivateMemberTest",
             "request": "launch",
             "mainClass": "Inheritance_Private_Member.PrivateMemberTest",
