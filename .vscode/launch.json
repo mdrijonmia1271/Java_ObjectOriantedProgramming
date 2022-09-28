@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Launch Test",
             "request": "launch",
+            "mainClass": "Final_Keyword2.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Final_Keyword.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "This_Keyword.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
             "mainClass": "Super_Keyword3.Test",
             "projectName": "Object Orianted Programming_13988380"
         },

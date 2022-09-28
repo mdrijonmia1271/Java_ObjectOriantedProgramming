@@ -4,7 +4,9 @@ public class Bike extends Vehicle {
     
     int lookingGlass;
 
+    //constructor
     Bike(String color, int weight, int lookingGlass){
+        //Calling the Constructor of Vehicle class
         super(color, weight);
         this.lookingGlass = lookingGlass;
     }
