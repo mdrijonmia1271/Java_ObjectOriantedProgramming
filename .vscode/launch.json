@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringCom",
+            "request": "launch",
+            "mainClass": "String_Comparision.StringCom",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "toString.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch FormatDecimal",
+            "request": "launch",
+            "mainClass": "Format_Specifier.FormatDecimal",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionProblem",
+            "request": "launch",
+            "mainClass": "Problem_Solving_03.ExceptionProblem",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch ExceptionDemo",
             "request": "launch",
             "mainClass": "Exception_Handling.ExceptionDemo",

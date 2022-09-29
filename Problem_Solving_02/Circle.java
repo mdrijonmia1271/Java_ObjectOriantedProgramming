@@ -9,8 +9,8 @@ public class Circle extends Shape {
 
     @Override
     void area(){
-        double result = 3.1416*dim1*dim2;
-        System.out.println("Circle Area = "+result);
+        double result = Math.PI*dim1*dim2;
+        System.out.printf("Circle Area = %.2f",result);
     }
 
 
