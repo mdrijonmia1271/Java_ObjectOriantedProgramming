@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExceptionDemo",
+            "request": "launch",
+            "mainClass": "Exception_Handling.ExceptionDemo",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exception",
+            "request": "launch",
+            "mainClass": "Exception_Handling.Exception",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Type_Casting.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Interface_02.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Interface.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Problem_Solving_02.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Polimorphism_02.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Polimorphism.Test",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch Test",
             "request": "launch",
             "mainClass": "Final_Keyword2.Test",
