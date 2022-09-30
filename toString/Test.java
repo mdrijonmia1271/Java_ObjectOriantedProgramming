@@ -1,6 +1,5 @@
 package toString;
 
-import Method_Overriding.person;
 
 public class Test {
     public static void main(String[] args) {

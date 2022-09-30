@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StudentList",
+            "request": "launch",
+            "mainClass": "Linked_List_02.StudentList",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListDemo",
+            "request": "launch",
+            "mainClass": "Linked_List.LinkedListDemo",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch StringCom",
             "request": "launch",
             "mainClass": "String_Comparision.StringCom",
