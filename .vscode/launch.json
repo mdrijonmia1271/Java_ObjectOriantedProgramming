@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FileDemo",
+            "request": "launch",
+            "mainClass": "File_Create.FileDemo",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetDemo",
+            "request": "launch",
+            "mainClass": "Hash_Set.HashSetDemo",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapDemo",
+            "request": "launch",
+            "mainClass": "Hash_Map.HashMapDemo",
+            "projectName": "Object Orianted Programming_13988380"
+        },
+        {
+            "type": "java",
             "name": "Launch StudentList",
             "request": "launch",
             "mainClass": "Linked_List_02.StudentList",
